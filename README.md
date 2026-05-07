@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arbaz! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Arbaz!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
