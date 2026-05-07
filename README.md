@@ -19,14 +19,18 @@ I am a passionate **Software Developer** with a deep interest in building scalab
 ### 🛠 Tech Stack & Tools
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121011?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 ---
@@ -54,11 +58,22 @@ I am a passionate **Software Developer** with a deep interest in building scalab
 
 ---
 
-### 🧩 Featured Project: AuraPredict-AI
+### 🧩 Featured Projects
+
+#### 🔮 [AuraPredict-AI](https://github.com/ArbazMakandar/AuraPredict-AI)
 > **Next-Gen Student Performance Intelligence Dashboard**
 > - **Tech**: Streamlit, Plotly, Scikit-learn, Random Forest Regressor.
 > - **Highlights**: Glassmorphism UI, Neural Radar Maps, Quantum Performance Badging.
-> - [View Repository](https://github.com/ArbazMakandar/AuraPredict-AI)
+
+#### 🧘 [Yoga AI](https://github.com/ArbazMakandar/Yoga-AI)
+> **AI-Powered Yoga Pose Detection & Correction**
+> - **Tech**: Python, MediaPipe, OpenCV, TensorFlow.
+> - **Highlights**: Real-time pose estimation and corrective feedback for perfect alignment.
+
+#### ⛓️ [Blockchain Certificate Validator](https://github.com/ArbazMakandar/Blockchain-Certificate-Validator)
+> **Decentralized Academic Credential Verification System**
+> - **Tech**: Ethereum, Solidity, Web3.js, Node.js.
+> - **Highlights**: Immutable certificate storage and instant verification to prevent forgery.
 
 ---
 
