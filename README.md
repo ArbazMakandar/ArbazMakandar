@@ -31,16 +31,26 @@ I am a passionate **Software Developer** with a deep interest in building scalab
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 Skills & Proficiency
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArbazMakandar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Arbaz's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbazMakandar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArbazMakandar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<br>
+
+| Skill | Proficiency |
+| :--- | :--- |
+| **Python / Development** | ![90%](https://progress-bar.dev/90/?scale=100&title=Mastery&width=200&color=00F2FE) |
+| **Data Structures & Algorithms** | ![85%](https://progress-bar.dev/85/?scale=100&title=ProblemSolving&width=200&color=4facfe) |
+| **Streamlit / UI Design** | ![80%](https://progress-bar.dev/80/?scale=100&title=Aesthetics&width=200&color=f093fb) |
+
+---
+
+### 🔭 Current Focus
+- 🧠 Deep diving into **Advanced Dynamic Programming**.
+- 🛠 Architecting **Scalable AI Dashboards**.
+- 🤝 Contributing to **Open Source** automation tools.
 
 ---
 
